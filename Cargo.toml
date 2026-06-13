@@ -1,6 +1,6 @@
 [package]
 name = "uwunsafe"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["c1ph3rC4t"]
 categories = []
@@ -17,4 +17,3 @@ proc-macro = true
 [dependencies]
 syn = { version = "2", features = ["full"] }
 quote = "1"
-proc-macro2 = "1"
